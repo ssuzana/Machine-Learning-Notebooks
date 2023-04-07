@@ -9,3 +9,5 @@ References:
 
 * [Python Machine Learning By Example - Third Edition,
 by Yuxi (Hayden) Liu](https://www.packtpub.com/product/python-machine-learning-by-example-third-edition/9781800209718)
+
+* [Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
