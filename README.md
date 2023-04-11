@@ -1,6 +1,6 @@
 # Machine-Learning-Notebooks
 
-These are some of the notes I took while studying Machine Learning.
+These notebooks contain small projects and personal notes.
 
 References:
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, by Aurélien Géron.](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
