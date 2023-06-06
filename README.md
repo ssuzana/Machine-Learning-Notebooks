@@ -1,6 +1,6 @@
 # Machine-Learning-Notebooks
 
-These notebooks contain small projects and personal notes.
+These notebooks contain small projects and notes.
 
 References:
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, by Aurélien Géron.](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
