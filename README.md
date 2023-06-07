@@ -2,7 +2,14 @@
 
 These notebooks contain small projects and notes.
 
-References:
+## Contents
+### Basic Machine Learning Models
+### Support Vector Machines (SVMs)
+### Decision Trees 
+### Ensemble Methods
+
+## References
+
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, by Aurélien Géron.](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 * [Python Data Science Handbook - Second Edition, by Jake VanderPlas](https://www.oreilly.com/library/view/python-data-science/9781098121211/)
