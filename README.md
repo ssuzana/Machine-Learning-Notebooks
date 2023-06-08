@@ -4,10 +4,34 @@ These notebooks contain small projects and notes.
 
 ## Contents
 ### Basic Machine Learning Models
+* Linear Regression
+* Gradient Descent
+    - Batch Gradient Descent
+    - Stochastic Gradient Descent
+    - Mini-batch Gradient Descent
+* Regularized Linear Models
+    - Polynomial Regression
+    - Ridge Regression
+    - Lasso Regression
+    - Elastic Net
+* Logistic Regression
+* Softmax Regression
 ### Support Vector Machines (SVMs)
+* Linear SVM Classification
+* Nonlinear SVM Classification
 ### Decision Trees 
+* Classification Example using ScikitLearn
+* The Classification and Regression Tree (CART) Algorithm
+* Regression Example using ScikitLearn
 ### Ensemble Methods
-
+* Why ensemble methods can work better than individual classifiers alone
+* Voting Classifiers
+   - Hard Voting (majority vote)
+   - Soft Voting (weighted majority vote based on class probabilities)
+* Bagging and Pasting
+* Boosting
+   - AdaBoost
+   - Gradient Boosting
 ## References
 
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, by Aurélien Géron.](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
