@@ -29,9 +29,16 @@ These notebooks contain small projects and notes.
    - Hard Voting (majority vote)
    - Soft Voting (weighted majority vote based on class probabilities)
 * Bagging and Pasting
+* Random Forests
+   - Extremely Randomized Trees
+   - Feature Importance
 * Boosting
    - AdaBoost
    - Gradient Boosting
+     - Gradient Tree Boosting
+     - Stochastic gradient boosting
+     - Histogram-Based Gradient Boosting
+* Stacking (or stacked generalization)     
 ## References
 
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, by Aurélien Géron.](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
